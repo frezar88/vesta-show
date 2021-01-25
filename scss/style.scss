@@ -896,6 +896,9 @@ button {
     }
 }
 @media (max-width: 768px) {
+    .header__bgimage2 {
+        width: 100%;
+    }
     .select {
         &__text2 {
             width: 100%;
